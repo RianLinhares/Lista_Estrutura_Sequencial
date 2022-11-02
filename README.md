@@ -1,0 +1,2 @@
+# Lista_Estrutura_Sequencial
+Lista_Estrutura_Sequencial_do_site_https://wiki.python.org.br/EstruturaSequencial
